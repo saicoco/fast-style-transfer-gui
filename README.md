@@ -65,7 +65,7 @@ click two position in image，e.g. left-top and right-bottom，which namely get 
 
 ### pre-traned model  
 
-There are 12 pretrained models in [baidu cloud driver](https://pan.baidu.com/s/1jItB2yM), you can download them and unzip into current dir.  styles show as follows:    
+There are 12 pretrained models in [baidu cloud driver](https://pan.baidu.com/s/1jItB2yM), you can download them and unzip into "mx_transfer". styles show as follows:    
 
 <div align='center'>
 <img src = 'out/golden_gate.jpg' height="200px">
